@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/tic-tac-toe-interactive-game-188775-188784/tic_tac_toe_frontend
+flutter analyze
+
